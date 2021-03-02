@@ -1,0 +1,16 @@
+PODS:
+  - CollectionViewGridLayout (2.1.0)
+
+DEPENDENCIES:
+  - CollectionViewGridLayout
+
+SPEC REPOS:
+  trunk:
+    - CollectionViewGridLayout
+
+SPEC CHECKSUMS:
+  CollectionViewGridLayout: f22fba04dff5c028ce20f1c29ba212e790b6f316
+
+PODFILE CHECKSUM: ee5bb83e209e8c7a53f141762cfa594248242803
+
+COCOAPODS: 1.10.0
